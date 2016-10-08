@@ -1,7 +1,6 @@
-#Java Project
-##Base Point for Java Applications
+#Java Fundamental Concepts Project
 
-*Project for creating Java Applications which do common tasks.*
+*Java project which covers fundamental concepts in Java.*
 
 **Java 7**
 
